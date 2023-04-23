@@ -1,1 +1,1 @@
-ultralytics 8.0.231 use new pyproject.toml (#7185)
+Bump nick-invision/retry from 2 to 3 in /.github/workflows (#8023)
