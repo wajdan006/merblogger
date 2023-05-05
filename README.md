@@ -1,1 +1,1 @@
-update requirements.txt
+OBB: Fix plot_images (#7592)
