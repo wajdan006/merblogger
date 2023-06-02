@@ -1,1 +1,1 @@
-Fix heatmaps width-height order bug (#7184)
+Open in Opposite Mode Option - Adds an option to open a long pressed URL in the respective other browsing mode
