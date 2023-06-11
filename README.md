@@ -1,1 +1,1 @@
-Add polygon regions drawing support in object-counting.md and minor docs update (#8885)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
