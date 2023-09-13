@@ -1,1 +1,1 @@
-Add new @Retry() decorator (#7854)
+ultralytics 8.1.8 new model.save('filename.pt') method (#7886)
