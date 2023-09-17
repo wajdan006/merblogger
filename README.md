@@ -1,1 +1,1 @@
-Add estimate_speed(region_color) parameter (#8285)
+Fix IS_PYTHON_3_12 bug (#9258)
