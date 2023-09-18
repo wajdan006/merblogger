@@ -1,1 +1,1 @@
-Fix TFLite INT8 for OBB (#7989)
+Optimize TFJS export on ARM64 (#8946)
