@@ -1,1 +1,1 @@
-Update Discord and Contributing Guide URLs (#9270)
+Compress explorer image in dataset/index.md + description added for new segmentation datasets (#7901)
