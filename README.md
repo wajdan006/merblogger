@@ -1,1 +1,1 @@
-Add ONNX Docs integrations page (#7802)
+Replacing Images for torchscript.md (#8596)
