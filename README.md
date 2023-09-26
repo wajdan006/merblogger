@@ -1,1 +1,1 @@
-fix predict with class filter
+Add ONNX Docs integrations page (#7802)
