@@ -1,1 +1,1 @@
-Add new YOLOv8 OBB model metrics (#7379)
+ultralytics 8.0.226 Validator Path and Tuner space (#6901)
