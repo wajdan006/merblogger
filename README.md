@@ -1,1 +1,1 @@
-Add YOLOv9 Docs page (#8478)
+Resize angle, count, and stage on keypoint number change (#7598)
