@@ -1,1 +1,1 @@
-Update Docs Home and Neural Magic pages (#7243)
+Fix docs H1 tags (#7182)
