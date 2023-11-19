@@ -1,1 +1,1 @@
-OpenVino 2024.0.0 (#8726)
+Desktop Mode Switch - A switch inside the tab switcher that can be used to toggle desktop mode on / off globally
