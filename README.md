@@ -1,1 +1,1 @@
-Update mkdocs.yml (#7693)
+Replacing Images for torchscript.md (#8596)
