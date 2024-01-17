@@ -1,1 +1,1 @@
-Update CI.md with CI links (#8786)
+Compare plt.get_backend() in lowercase (#8409)
