@@ -1,1 +1,1 @@
-OpenVino 2024.0.0 (#8726)
+Clean up unused imgsz (#7771)
