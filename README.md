@@ -1,1 +1,1 @@
-Clean up unused imgsz (#7771)
+Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
