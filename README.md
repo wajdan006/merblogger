@@ -1,1 +1,1 @@
-Clean up unused imgsz (#7771)
+Update Discord and Contributing Guide URLs (#9270)
