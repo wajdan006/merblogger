@@ -1,1 +1,1 @@
-Fix OpenVINO missing batch-size bug (#9264)
+Add object blurring & object cropping modules in Ultralytics docs (#7434)
