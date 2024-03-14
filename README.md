@@ -1,1 +1,1 @@
-Update Docs language dropdown height (#6927)
+Optimize function calls to method calls (#8507)
