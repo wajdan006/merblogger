@@ -1,1 +1,1 @@
-YOLOv8.1 blog, Explorer notebook and 2023 > 2024 updates (#7469)
+Fix solution functions description + integrations/openvino.md cover image update (#8170)
