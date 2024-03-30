@@ -1,1 +1,1 @@
-Bounding Box to OBB conversion (#7572)
+Update OpenVINO INT8 export (#7515)
