@@ -1,1 +1,1 @@
-ultralytics 8.1.12 new Results.show() and Results.save() (#8166)
+ultralytics 8.0.235 YOLOv8 OBB train, val, predict and export (#4499)
