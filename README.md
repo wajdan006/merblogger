@@ -1,1 +1,1 @@
-Fixed dataloader CPU bottleneck for small batch sizes (#7659)
+YOLOv8 INT8 TFLite Inference Example (#7317)
