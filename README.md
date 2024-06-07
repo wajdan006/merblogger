@@ -1,1 +1,1 @@
-Updated SQL Query Plot Code (#8120)
+ultralytics 8.1.15 add Python 3.12 compatibility (#8210)
