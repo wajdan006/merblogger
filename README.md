@@ -1,1 +1,1 @@
-ultralytics 8.1.15 add Python 3.12 compatibility (#8210)
+Bump github/codeql-action from 2 to 3 in /.github/workflows (#7041)
