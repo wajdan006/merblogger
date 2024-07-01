@@ -1,1 +1,1 @@
-Fix xyxyxyxyn calculation, swap axis (#8249)
+Update Colab notebook for YOLOv8.1 (#8660)
