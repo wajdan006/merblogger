@@ -1,1 +1,1 @@
-ultralytics 8.1.17 fix ClassificationDataset caching (#8358)
+Resize angle, count, and stage on keypoint number change (#7598)
