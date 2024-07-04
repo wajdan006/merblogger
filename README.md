@@ -1,1 +1,1 @@
-Mkdocs updates (#8008)
+Add missing single-line docstrings (#8362)
