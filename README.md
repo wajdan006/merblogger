@@ -1,1 +1,1 @@
-Fix names bug when exporting YOLOv8-World to ONNX (#8941)
+Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
