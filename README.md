@@ -1,1 +1,1 @@
-Bounding Box to OBB conversion (#7572)
+ultralytics 8.1.25 OpenVINO LATENCY and THROUGHPUT modes (#8058)
