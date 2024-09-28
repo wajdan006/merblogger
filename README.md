@@ -1,1 +1,1 @@
-Add YouTube iframe loading=lazy (#8001)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
