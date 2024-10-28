@@ -1,1 +1,1 @@
-Add ONNX Docs integrations page (#7802)
+Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
