@@ -1,1 +1,1 @@
-Try Apple M1 runners for Tests and Benchmarks CI (#8162)
+ultralytics 8.1.2 scope HUB-SDK imports (#7596)
