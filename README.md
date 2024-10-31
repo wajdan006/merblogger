@@ -1,1 +1,1 @@
-Add https://youtu.be/ie3vLUDNYZo and other YT videos in Docs (#8551)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
