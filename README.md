@@ -1,1 +1,1 @@
-Capitalize OBB acronym (#7383)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
