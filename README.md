@@ -1,1 +1,1 @@
-ultralytics 8.1.17 fix ClassificationDataset caching (#8358)
+Add PR Summary step to Ultralytics Actions (#7675)
